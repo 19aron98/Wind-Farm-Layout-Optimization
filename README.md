@@ -36,7 +36,7 @@ This repository contains the implementation of a wind farm layout optimization a
 ### Setup
 1. Clone the repository:  
    ```bash
-   git clone <repository_link>
+   git clone https://github.com/19aron98/Wind-Farm-Layout-Optimization.git
    cd WindFarmOptimization
    ```
 2. Install dependencies:  
