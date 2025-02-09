@@ -61,7 +61,7 @@ This repository contains the implementation of a wind farm layout optimization a
 ## Results
 - **Initial Layout**: Turbine positions based on random or uniform placement strategies.  
 - **Optimized Layout**: Enhanced turbine positions that maximize AEP while maintaining constraints.  
-- **Performance Metrics**: Visualization of AEP improvement and wake loss reduction.
+- **Performance Metrics**: Visualization of AEP improvement to 4.26% boost and wake loss reduction.
 
 ---
 
