@@ -1,5 +1,7 @@
 # Wind Farm Layout Optimization
 
+This project focuses on optimizing the layout of a wind farm to maximize Annual Energy Production (AEP). Using a penalty-based gradient descent approach, the optimization considers wake effects, wind speed variations, and spatial constraints to ensure efficient turbine placement within a defined area.
+
 ## Project Objectives
 - **Maximizing AEP**: Place turbines in high wind-speed zones to maximize energy production.  
 - **Minimizing Wake Losses**: Incorporate wake effect modeling to reduce energy losses due to turbine interactions.  
