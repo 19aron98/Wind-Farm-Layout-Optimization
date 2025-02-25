@@ -10,7 +10,7 @@ This repository contains the implementation of a wind farm layout optimization a
 ---
 
 ## Approach
-1. **Input Data**: The project uses a wind speed map (`wind_speed_map.csv`) as input, representing the spatial distribution of wind speeds over a 4 km x 4 km area.  
+1. **Input Data**: The project uses a wind speed map (`wind_speed_map.csv`) as input, representing the spatial distribution of wind speeds over a 20 km x 20 km area.  
 2. **Objective Function**: The objective function calculates AEP based on turbine positions, wind speed, and wake losses.  
 3. **Optimization Method**:  
    - **Penalty Method**: Introduces penalties for violating constraints like boundary limits and inter-turbine spacing.  
